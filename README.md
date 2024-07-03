@@ -13,7 +13,7 @@
 
 You can add a small description about yourself. 
 
-![Metrics](https://raw.githubusercontent.com/<Your github username>/<Your github username>/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/<Your github username>/<Your github username>/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/<Your github username>/<Your github username>/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/<Your github username>/<Your github username>/github-metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/nihalgunu/nihalgunu/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/nihalgunu/nihalgunu/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/nihalgunu/nihalgunu/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/nihalgunu/nihalgunu/github-metrics/achievements.svg)
