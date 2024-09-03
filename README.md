@@ -65,5 +65,4 @@
 </p>
 </p>
 
-<p align="center">&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=nihalgunu&show_icons=true&locale=en&count_private=true" alt="nihalgunu" />
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" /></p>
