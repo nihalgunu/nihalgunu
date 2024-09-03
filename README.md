@@ -2,6 +2,7 @@
 <h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalgunu&label=Profile%20views&color=0e75b6&style=flat" alt="nihalgunu" /> </p>
 
 - 💬 Ask me about what I am currently working on!
@@ -137,6 +138,3 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/>
   </a>
 </p>
-
-
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
