@@ -113,4 +113,4 @@
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height
 </p>
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
