@@ -98,6 +98,15 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws_rds/amazon_aws_rds-icon.svg" alt="aws-rds" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure_cosmosdb/microsoft_azure_cosmosdb-icon.svg" alt="azure-cosmosdb" width="40" height="40"/>
+  </a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1599098980/logo/cloudinary_color.png" alt="cloudinary" width="40" height="40"/>
+  </a>
 
   <!-- Distributive Technologies -->
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
@@ -111,6 +120,33 @@
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/>
+  </a>
 </p>
+
 
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
