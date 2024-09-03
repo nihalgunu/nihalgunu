@@ -98,16 +98,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws_rds/amazon_aws_rds-icon.svg" alt="aws-rds" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/cosmos-db/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure_cosmosdb/microsoft_azure_cosmosdb-icon.svg" alt="azure-cosmosdb" width="40" height="40"/>
-  </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1599098980/logo/cloudinary_color.png" alt="cloudinary" width="40" height="40"/>
-  </a>
-
   <!-- Distributive Technologies -->
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
