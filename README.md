@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Gunukula</h1>
 <h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalgunu&label=Profile%20views&color=0e75b6&style=flat" alt="nihalgunu" /> </p>
 
 - 💬 Ask me about what I am currently working on!
