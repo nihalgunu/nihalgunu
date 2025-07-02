@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Gunukula</h1>
 <h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalgunu&count_private=true" alt="nihalgunu" />
-
 - 💬 Ask me about what I am currently working on!
 - 📫 How to reach me **nihalgunukula@gmail.com**
 <h3 align="left">Connect with me:</h3>
