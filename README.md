@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nihal Gunukula</h1>
-<h2 align="center">A Software Developer, Machine Learning Researcher and Entrepreneur</h2>
 
 - <a href="https://nihalgunu.github.io/" target="_blank">About Me</a>
 - 📫 How to reach me **nihalgunukula@gmail.com**
