@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Gunukula</h1>
 
-- <a href="https://nihalgunu.github.io/" target="_blank">About Me</a>
+- <a href="https://nihalgunu.com/" target="_blank">About Me</a>
 - Reach me: **nihalgunukula@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
